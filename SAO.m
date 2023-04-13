@@ -8,7 +8,7 @@
 %                 syliu@xidian.edu.cn 
                                                                                                                                                                                                         
 %  Main paper:                                                                                        
-%  Lingyun Deng,Sanyang Liu Snow ablation optimizer: a novel metaheuristic technique for numerical optimization and engineering design
+%  Lingyun Deng,Sanyang Liu. Snow ablation optimizer: a novel metaheuristic technique for numerical optimization and engineering design
 %  Journal name= Expert Systems with Applications, DOI: https://doi.org/10.1016/j.eswa.2023.120069
 %_______________________________________________________________________________________________
 % You can simply define your cost function in a seperate file and load its handle to fobj 
